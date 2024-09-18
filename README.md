@@ -31,9 +31,6 @@ Test Password: password
   </a>
   <li>The ORM used is prisma which provided good scalability as well as easy to query with. Perfect for Postgresql based databases.</li>
   <li>
-    Used TanStack query for client side database fetching.
-  </li>
-  <li>
     Used Zustand for some state management needed on client side.
   </li>
   <li>
@@ -46,5 +43,5 @@ Test Password: password
 
 
 <h2>Edit:</h2>
-<p>Actually since stripe is invite only in India so I couldn't able to register for an account, so I just used stripe's test card to test payments, and it may not after some time since I didn't complete the account registration</p>
+<p>Actually since stripe is invite only in India so I couldn't able to register for an account, so I just used stripe's test card to test payments, and it may not after some time as I didn't complete the account registration</p>
 
