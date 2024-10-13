@@ -45,3 +45,6 @@ Test Password: password
 <h2>Edit:</h2>
 <p>Actually since stripe is invite only in India so I couldn't able to register for an account, so I just used stripe's test card to test payments, and it may not after some time as I didn't complete the account registration</p>
 
+
+<h2>Credits: <a href="https://github.com/antonioerdeljac">@code_with_antonio</a></h2>
+
